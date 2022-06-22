@@ -1,0 +1,22 @@
+{
+    "KPlugin":{
+        "Authors":[
+            {
+                "Email": "erickrmirezpadron@gmail.com",
+                "Name": "Érick Padrón"
+            }
+        ],
+        "Category": "Graphics",
+        "Description": "A widget for enttertainment",
+        "Icon": "battery",
+        "Id": "com.github.erickpapadron.KDEPet",
+        "Name": "KDEPet",
+        "ServiceTupeps":[
+            "Plasma/Applet"
+        ],
+        "Version": "0.1",
+        "Website": "https://github.com/erickpapadron/PetWalking-KDEWidget"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
